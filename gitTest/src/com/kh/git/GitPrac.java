@@ -7,6 +7,8 @@ public class GitPrac {
 		System.out.println("안녕?");
 		System.out.println("조장");
 		System.out.println("조원");
+		
+		System.out.println("222222");
 	}
 
 }
